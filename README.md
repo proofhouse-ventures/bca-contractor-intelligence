@@ -44,3 +44,22 @@ Personal-data handling: the BCA source publishes a telephone column — at small
 ## Terms
 
 Outputs are derived from the source datasets named above and are provided as-is for business intelligence. Registrations, statuses, grades and coverage are exactly as published by the sources, subject to the statements in the coverage section above; check it before relying on any aggregate.
+
+---
+**More public-data intelligence from Proofhouse Ventures**
+- Singapore government contract awards (GeBIZ): https://apify.com/proofhouse-ventures/gebiz-award-intelligence
+- Singapore HDB resale transactions: https://apify.com/proofhouse-ventures/hdb-resale-intelligence
+- UK property price-paid records: https://apify.com/proofhouse-ventures/uk-price-paid-intelligence
+- Singapore new company registrations (ACRA): https://apify.com/proofhouse-ventures/acra-new-companies-delta
+- Global LEI register (GLEIF): https://apify.com/proofhouse-ventures/gleif-lei-register
+- France company register (Sirene): https://apify.com/proofhouse-ventures/france-sirene-register
+
+Building a company-data product? The Global Company Registry API (on RapidAPI and MCPize) combines the Singapore, UK, France and LEI registers in one API.
+
+
+
+
+
+
+
+
